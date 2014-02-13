@@ -1,3 +1,5 @@
+# Markdown示例
+
 ## 段落
 
 由一个或多个
@@ -163,3 +165,33 @@ __两个下划线__ 产生粗体字
 * \.   英文句点
 * \!   惊叹号 
 * \|   竖线
+
+
+## Redmine 链接
+
+问题 #7123
+问题的注解 #7123-1
+
+wiki链接 [[产品规格写作规范]]
+wiki章节链接 [[产品规格写作规范#示例]]
+wiki链接，使用替代的名字 [[产品规格写作规范|Spec规范]]
+wiki跨项目链接 [[doc:产品规格写作规范]]
+wiki跨项目链接到wiki主页 [[doc:]]
+
+文档链接，通过编号 document#1
+文档链接，通过标题 document:签核打印文档模板
+文档链接，通过标题 document:"如有 空格则需要引号"
+文档链接，通过标题 doc:document:签核打印文档模板
+
+版本 version#1
+版本 version:1.0.0
+版本 version:"1.0.0 beta 1"
+版本 ios:version:7.1
+
+附件 attachment:markdown.png
+
+论坛消息 message#1
+
+项目 project:文档
+项目 project:doc
+转意 !version#1  ![[页面名字]] 
