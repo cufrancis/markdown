@@ -133,13 +133,12 @@ __两个下划线__ 产生粗体字
 ## 代码
 
 如果要标记`一小段行内代码`，你可以用反引号把它包起来。 
-按`A`键。
+比如：按`Enter`键确定。
 
 
 ## 图片
 
 ![](markdown.png)
-![](images/markdown.png)
 ![](https://github.com/xpol/markdown/raw/master/markdown.png)
 ![][id]
 
