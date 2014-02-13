@@ -140,11 +140,11 @@ __两个下划线__ 产生粗体字
 
 ![](markdown.png)
 ![](images/markdown.png)
-![](http://www.example.com/img.jpg)
+![](https://github.com/xpol/markdown/raw/master/markdown.png)
 ![][id]
 
 
-[id]: http://www.example.com/img.jpg 
+[id]: https://github.com/xpol/markdown/raw/master/markdown.png
 
 
 反斜杠
